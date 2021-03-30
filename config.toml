@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mkbrid.netlify.app/"
 title = "プログラム練習人"
 languageCode = "ja-jp"
 hasCJKLanguage = true
