@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+title = "プログラム練習人"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+theme = "rokkaku"
+
+[taxonomies]
+tag = "tags"
+archive = "archives"
+
+[markup]
+[markup.highlight]
+codeFences = false
+guessSyntax = false
+noClasses = false
+
+[params]
+limitNumberOfLatests = 5
+logoHtml = "<figure><ul class=\"c-logo\"><li/><li/><li/></ul></figure>"
+styles = ["/css/logo.css"]
+copyrightHtml = "&copy; program practice 2021"
