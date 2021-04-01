@@ -18,4 +18,4 @@ noClasses = false
 limitNumberOfLatests = 5
 logoHtml = "<figure><ul class=\"c-logo\"><li/><li/><li/></ul></figure>"
 styles = ["/css/logo.css"]
-copyrightHtml = "&copy; program practice 2021"
+copyrightHtml = "&copy; programming practice 2021"
